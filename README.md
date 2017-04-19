@@ -1,0 +1,1 @@
+# bangazon-data-model
